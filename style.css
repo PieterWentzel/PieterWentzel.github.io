@@ -3,7 +3,7 @@ body{
 }
 .timeline-area{
     margin: 120px auto;
-    width: 400px;
+    width: 600px;
     border-left: 2px solid #ccc;
     padding: 0 20px 0 30px;
 }
@@ -14,7 +14,7 @@ div{
     border: 1px solid #ccc;
     line-height: 1.7;
     position: relative;
-    height: 110px;
+    height: 150px;
     margin-bottom: 20px;
 }
 div:before{
@@ -51,6 +51,10 @@ div h3{
     font-family: poppins;
 }
 div h4{
+    margin: 0;
+    font-family: poppins;
+}
+div h5{
     margin: 0;
     font-family: poppins;
 }
